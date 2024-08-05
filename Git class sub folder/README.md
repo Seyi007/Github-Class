@@ -2,5 +2,3 @@
 Making updates to this folder from new branch "my_copy"
 
 Made a mistake earlier, fixig it
-
-Trying to ignore a text file
